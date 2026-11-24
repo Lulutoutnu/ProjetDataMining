@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+scikit-image>=0.22
+lightgbm>=4.3
+optuna>=3.5
+torch>=2.2
+torchvision>=0.17
+albumentations>=1.4
+pillow>=10.0
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+ruff>=0.3
